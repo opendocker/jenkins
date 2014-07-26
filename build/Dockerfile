@@ -5,7 +5,7 @@
 #
 
 # ubuntu base
-FROM opendocker/ubuntu:0.1.1
+FROM opendocker/ubuntu:0.2.0
 
 # Add our build directory
 RUN mkdir /build
